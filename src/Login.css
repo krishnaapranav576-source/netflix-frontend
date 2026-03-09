@@ -1,0 +1,26 @@
+body{
+  background:black;
+  font-family:Arial;
+}
+
+.container{
+  width:300px;
+  margin:100px auto;
+  text-align:center;
+  color:white;
+}
+
+input{
+  display:block;
+  width:100%;
+  padding:10px;
+  margin:10px 0;
+}
+
+button{
+  background:red;
+  color:white;
+  border:none;
+  padding:10px;
+  width:100%;
+}
